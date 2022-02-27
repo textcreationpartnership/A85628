@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victorie in the North, obtained by the forces under the command of Lieutenant Generall Cromwel, against Duke Hamilton, and the Scottish army. Wherein is declared, the manner of the late fight near the confines of York, the routing of Lieutenant Generall Cromwells forces upon the first onset, and after three miles pursuit (by the Scots) rallied again, fell upon the Scottish forces, killed Duke Hamiltons Lieutenant Collonel, a Major, divers Captains, officers, and souldiers, routed the whole body, and regained their ground. Also another fight near Pomfret castle in Yorkshire, a defeat given to the Parliaments forces, and divers taken prisoners, and carryed to the said castle. Whereunto is annexed, an humble petition to the Kings most Excellent Majesty, concerning the King and his people, and every subject in particuler of this his kingdom of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85628</idno>
+            <idno type="STC">Wing G1767</idno>
+            <idno type="STC">Thomason E457_17</idno>
+            <idno type="STC">ESTC R204987</idno>
+            <idno type="EEBO-CITATION">99864433</idno>
+            <idno type="PROQUEST">99864433</idno>
+            <idno type="VID">162074</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85628)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162074)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E457[17])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victorie in the North, obtained by the forces under the command of Lieutenant Generall Cromwel, against Duke Hamilton, and the Scottish army. Wherein is declared, the manner of the late fight near the confines of York, the routing of Lieutenant Generall Cromwells forces upon the first onset, and after three miles pursuit (by the Scots) rallied again, fell upon the Scottish forces, killed Duke Hamiltons Lieutenant Collonel, a Major, divers Captains, officers, and souldiers, routed the whole body, and regained their ground. Also another fight near Pomfret castle in Yorkshire, a defeat given to the Parliaments forces, and divers taken prisoners, and carryed to the said castle. Whereunto is annexed, an humble petition to the Kings most Excellent Majesty, concerning the King and his people, and every subject in particuler of this his kingdom of England.</title>
+                  <author>R. F.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for the wel-fare and happinesse of all true and loyall subjects,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes a letter "To the Kings most Excellent Majesty." Signed on p.[6]: R.F.</note>
+                  <note>Annotation on Thomason copy: "Aug: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hamilton, William Hamilton, --  Duke of, 1616-1651.</term>
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Scotland. --  Army --  Early works to 1800.</term>
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162074:1" rendition="simple:additions"/>
+            <p>A GREAT VICTORIE IN THE NORTH, OBTAINED By the Forces under the Command of Lieu<g ref="char:EOLhyphen"/>tenant Generall CROMWEL, againſt Duke <hi>Hamilton,</hi> and the Scottiſh Army. Wherein is declared, the manner of the late Fight near the Confines of <hi>York,</hi> the routing of Lieutenant Generall <hi>Cromwells</hi> Forces upon the firſt O<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſet, and after three miles purſuit (by the Scots) rallied again, fell upon the Scottiſh Forces, killed Duke <hi>Hamiltons</hi> Lieutenant Collonel, a Major, divers Captains, Officeta, and Soul<g ref="char:EOLhyphen"/>diers, routed the whole Body, and regained the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ground.</p>
+            <p>Alſo another Fight near Pomfret caſtle in Yorkſhire, a Defeat given to the Parliaments Forces, and divers taken pri<g ref="char:EOLhyphen"/>ſoners, and carry<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to the ſaid Caſtle.</p>
+            <p>Whereunto is annexed, An humble Petition to the Kings moſt Excellen Majeſty, concerning the King and his People, and ev<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ry ſubject in particuler of thi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his Kingdom of <hi>England.</hi>
+            </p>
+            <p>Behold! all ye that paſse by ſtand ſtill, and ſee the wonderfull works of the Lord, which he hath wrought for the people of England, by His Servant King <hi>Charles.</hi>
+            </p>
+            <p>
+               <add>Aug: 8<hi rend="sup">th</hi>
+               </add> London, Printed for the wel-fare and happineſſe of all true and Loyall Subjects. <hi>Anne Dom.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162074:2"/>
+            <pb n="1" facs="tcp:162074:2"/>
+            <head>A Great fight between the Forces belong<g ref="char:EOLhyphen"/>ing to Lieutenant Generall <hi>Crumwell,</hi> and the Scots forces under the Com<g ref="char:EOLhyphen"/>mand of Duke <hi>Hamleton.</hi>
+            </head>
+            <opener>
+               <salute>Right honorable,</salute>
+            </opener>
+            <p>MAjor Generall <hi>Lambert</hi> having received ſome freſh ſupplies, and joyned his Army with the additionall forces ſent from Lieu<g ref="char:EOLhyphen"/>tenant Generall <hi>Cromwell,</hi> a motion was made to diſpute a peice of ground with the <hi>Scots,</hi> which was aſſented to, and about 20 Troops of the Lieut. Gen. horſe charged the <hi>Scots,</hi> both parties bo<g ref="char:EOLhyphen"/>died, and ſome action happened, but the <hi>Scots</hi> being to rumerous, the Liuet. Gen. horſe were forced to retreat; the <hi>Scots</hi> purſued, proteſting not to leave a man of them alive; whereupon the <hi>Engliſh</hi> rallyed, charged Duke <hi>Ham<g ref="char:EOLhyphen"/>bletons</hi> own Regiment of horſe, and ſome others that pur<g ref="char:EOLhyphen"/>ſued them, and after a great conflict worſted them, put them to a retreat and followed the purſute within one mile of the main body, and made good their paſſage with the loſſe of 15 killed, and ſome few wounded. The <hi>Scots</hi> loſſe is far more, their number killed, wounded and taken priſoners amounting to 85. ſome of them being men of
+<pb n="2" facs="tcp:162074:3"/>quality, as the Dukes, Lieut. Col. a Major, our head-quar<g ref="char:EOLhyphen"/>ters 10. miles on this ſide Barnard Caſtle, the Scots advan<g ref="char:EOLhyphen"/>cing up with ſmall parties, but the Body moves ſlowly. We hear that the Waſps of Pomfret have ſtung ſome of L.G. Cromwells horſe, and took their Riders, ſallying upon them as they were on their march to the Maj. Gen. A ſmall defeat: the gaining of which, coſt them dear, they loſt in the diſpute near upon 20. Officers and Souldiers, the Governour himſelf being dangerouſly wounded.</p>
+            <closer>
+               <dateline>
+                  <hi>York</hi>
+                  <date>
+                     <hi>Auguſt</hi> 1648.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To the Kings moſt Excellent Majeſty.</head>
+            <opener>
+               <salute>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt gracious Soveraign,</salute>
+            </opener>
+            <p>IT is the ſaying of <hi>Solomon</hi> (the pen-man of the Holy Ghoſt, and the wiſeſt King that ever was) <hi>Prov.</hi> 21.1. <hi>The Kings heart is in the hand of the Lord as the Rivers of water; he turneth it whitherſoever he pleaſeth:</hi> I, a poor deſpi<g ref="char:EOLhyphen"/>cable man, (deſpicable becauſe poor) do preſume, out of my ſincere loyall affection, and duty to your Maj. and my earneſt deſire for the re-uniting of You with your Parl. &amp; Subjects of this Kingdom, to offer, or rather to ſacrifice, my weak Conceptions to Your gracious Acceptance or Refuſal. Sir, We are all in an Egyptian darkneſs, be you but pleaſed to cauſe the Sun-ſhi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of your Mercy and Goodneſs to break out upon Your poor Subjects of this Kingdom; and there is great hope we may ſoon be deli<g ref="char:EOLhyphen"/>vered from this fearfull Confuſion whereinto we are faln. For my own part, I believe, Your Maj. not being conſci<g ref="char:EOLhyphen"/>ous of the miſery Your poor Subjects are in (in regard of the unkingly reſtraint You are for the preſent unhappily under) is the cauſe You cannot be ſo zealous, as other<g ref="char:EOLhyphen"/>wiſe you would, to redreſs it; &amp; that your want of know<g ref="char:EOLhyphen"/>ledge of the preſent conjuncture of Affairs is that which renders your people ſo infinitely miſerable, that they are
+<pb n="3" facs="tcp:162074:3"/>ready every minute to precipitate themſelves into the Gulf of Deſpair. It is ſaid of Almighty God, <hi>There is mer<g ref="char:EOLhyphen"/>cy with him that he may be feared, and his mercy is over (or a<g ref="char:EOLhyphen"/>bove all works:</hi> And I believe (without leaſt flattery I ſpeak it that there is abundance of Mercy and Bowel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Com<g ref="char:EOLhyphen"/>paſſion with You, towards Your poor Subjects, that You may be both loved and feared; and that Your mercy will ſhower it ſelf down to the amazement and reproach of thoſe that ſeeme not to believe it: Did I ſay, Your Mercy, yea and Your Juſtice alſo, even againſt Your ſelf, in the voluntary clouding of Your own Princely Royalty; and that Prince, who ſhadows his own Glory (meerly for the good of his Subjects) is a rare Pattern: And the firſt giver of ſo great an (unexampled) Example, muſt needs render himſelf glorious to all Poſteritie. Sir, in the firſt place, I preſume (with boldneſſe enough I confeſs, yet will I not fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tter you ſo much as to ſay, I beg your Maj. pardon for it) to remember you, that Self-Deniall is the only way to happineſs, Temporall (here, Eternall hereafter:) and had it been but a little practiſed on all hands (by the 3. Eſtates of Parl.) at the begining or budding forth of theſe unhap<g ref="char:EOLhyphen"/>py differences, (although Malice it ſelf cannot but ſay, that Your Maj. acted Your part, and the very Lepers of Samaria ſhall one day riſe up in Judgment againſt ſome, &amp; ſay that that was a day of good tydings, and they ungrate<g ref="char:EOLhyphen"/>fully held their Peace, In your aboliſhing of Monopolies, putting down the Star-Chamber, diſannulling the High Commiſſion Court, outing of Biſhops from the Houſe of Pears, Regulating the Councel Table, granting of Triennial Par<g ref="char:EOLhyphen"/>liaments, and continuing of This, not to be diſſolved without the conſent of both Houſes;) Your Maj. and Your People had not felt Gods heavy hand, as You and they have done for theſe ſeven years paſt, and yet do: but for me to preſume to tell your Majeſty what <hi>Self-Denial</hi> is, were a moſt unpardonable offence.</p>
+            <p>
+               <pb n="4" facs="tcp:162074:4"/>
+And yet, for your Majeſty to beleive that this <hi>Peace off<g ref="char:EOLhyphen"/>ering,</hi> which you ſacrifice to the good and happyneſſe of your people) in the ſad condition your Majeſty is in, and the moſt miſerable one they are plunged into) can be hap<g ref="char:EOLhyphen"/>pyly begun without ſelf deniall (one your part firſt, and then all the peoples part alſo) is (ſo far as I can apprehend in <hi>Reaſon</hi> and <hi>Religion</hi>) altogether unpoſſible: and by the ſequel of my diſcourſe I doubt not but to make good the truth of it at the full.</p>
+            <p>Sir, look into your own heart, and ſee whether in for<g ref="char:EOLhyphen"/>mer times you were not more your own (or others who a<g ref="char:EOLhyphen"/>buſed you then your ſubjects univerſally: The word <hi>pro<g ref="char:EOLhyphen"/>prium</hi> is of a neere relation, and I doubt whether it ſits not as cloſe the hearts of Kings as of ſubjects, which your Majeſty well knows is not compatible with ſelf-deniall. Sir, you are a great Monarch (true) yet you are but a <hi>Stew<g ref="char:EOLhyphen"/>ard (nomine &amp; re)</hi> a Steward of the great houſe of the Common-wealth; and one day it ſhall be ſaid to you, as to the Steward in the Goſpel, <hi>(Redde rationem) Give an account of thy ſtewardſhip;</hi> And the accounts of Kings are of a vaſt extent. Sr. you are a Shepheard alſo a Shepherd of a great flock, our Saviour cals himſelf a Shepherd, <hi>the great Shepherd of Iſrael,</hi> and he tels you, <hi>a good Shepheard will dye for his Sheep</hi> he did ſo: And S. <hi>Paul. Phil.</hi> 2, 5 ſpea<g ref="char:EOLhyphen"/>king of our Saviour Chriſt, and there deducing him from all eternity to time, hath theſe words; <hi>Let this mind be in you, which was alſo in Chriſt Ieſus: who being in the form of God, thought it not robbery to be equall with God: But made himſelf of no reputation, &amp;c.</hi> And ſhall I dovbt your Ma<g ref="char:EOLhyphen"/>jeſty will imitate our bl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed Saviour in all you can? I doubt it or: He prayed for this perſecutors, and taught us ſo to doe, he forgave his enemies that crucified him e<g ref="char:EOLhyphen"/>ven
+<pb n="5" facs="tcp:162074:4"/>upon the cr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſe <hi>[Father forgive them, they know not what they do]</hi> nay he dyed for them [<hi>who dyed,</hi> ſaith the Apoſtle <hi>for the ſins of the whole world.</hi>] You are not deſi<g ref="char:EOLhyphen"/>red Sr. to dye out of the world, or to part with your ſoul, by a ſequeſtration of it from the body. Let the greateſt curſe that ever fell one the head of any man, fall on that head that hath but ſuch a wiſh or thought in his heart. All you have to do or ſuffer, is but to part with a ſillable or two, from one ſingle word, a few let<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ers cut off from that Monſter, as the people call it <hi>PREROGATIUE,</hi> a little paring off ſome ſuperfluous part of it, will prove <hi>Balme</hi> from <hi>Gilead,</hi> to heale this whole Nation of the moſt Epi<g ref="char:EOLhyphen"/>demical diſeaſe that ever yet ſeized this poor dying King<g ref="char:EOLhyphen"/>dom.</p>
+            <p>Sir, it was ſaid in the begining of this Parliament, (by Mr. <hi>Pym,</hi> if I miſtake not that the Parliament would make you a glorious King, and who knows whether your Ma<g ref="char:EOLhyphen"/>eſty, when you were in the head of your Army at <hi>Edghil,</hi> (or elſe where) had not ſome hopes to make your ſelf a (glorious King? And I have been told, that this Army would have perſwaded you, when time was, that they make you a glorious King.</p>
+            <p>Sir, you have failed in your hopes, they in their promi<g ref="char:EOLhyphen"/>ſes, and who knows whether, what your Majeſty hoped and they promiſed, and they performed not, may not yet be done another and a better way, if (at leaſt) you will be pleaſed to take him for your guide (who hath hitherto ſo miraculouſly preſerved you, and I hope ever will.) I ſay (Sir) taking God for your guide all may be made good, and and may yet, be brought to paſſe by your ſelfe, not by fighting any more to the hazzard of your Royall perſon, and the perſons of your Princely Iſſue, and of your
+<pb facs="tcp:162074:5"/>Nobility, and the deſtruction of your loving ſubjects; but by extending and really performing of thoſe two God like Acts of <hi>mercy</hi> and <hi>juſtice,</hi> without partiallity, to all your people. And this is <hi>Via Regia</hi> indeed, and well becoming the Majeſty of King <hi>Charles.</hi>
+            </p>
+            <p>And now Sir, behold how wonderful the ways of God are, contary to the waies of men, paſt finding out till him<g ref="char:EOLhyphen"/>ſelf diſcover them: you have long layen under the croſſe (reſtraint to a King is a great croſſe, were there no more in it,) you are not free, I dare not ſay you are a captive, &amp; yet your perſon, with the power that God hath given you over your ſelf and the Grace he hath indued you with to ſerve him muſt ſuddenly come forth to the redemption of your Subjects out of their captivity,) captives in their native Country under their fellow ſubjects) or they are loſt, loſt for ever. In this Abyſs of Exigency, no expedi<g ref="char:EOLhyphen"/>ent can be found to ſave your people but the preſence of your ſacred Perſon, armed with <hi>mercy</hi> &amp; <hi>juſtice, Mercy</hi> &amp; <hi>juſtice</hi> to your people, and <hi>juſtice</hi> againſt your ſelf, nor could You ſo eaſily do it, as I beleive, had not God thus fitted, prepared, and quallified you by the <hi>croſs;</hi> whereby You have obtained a fellow feeling of the miſeries of Your ſubjects; <hi>Dauid</hi> ſaid of himſelf, <hi>It was well for me<g ref="char:cmbAbbrStroke">̄</g> that I was afflicted.</hi> Great Sr. let Your engagements &amp; promi<g ref="char:EOLhyphen"/>ſes to Your people for the time to come, in Your perfect<g ref="char:EOLhyphen"/>ing of this bleſſed peace, be like the lawes of the <hi>Medes</hi> and <hi>Perſians,</hi> irrevocable. And ſo God ſhall bleſſe you and Your poſterity for ever: ſo much of good towards his people ſo much honor to himſelf, no King ever had in his power to act, as your Maj. nor hath by the ſaving the effu<g ref="char:EOLhyphen"/>ſion of ſo much innocent blood, &amp; perhaps the Kingdom from utter ruin, which is the prayer of him who is,</p>
+            <closer>
+               <signed>Your Maj. moſt humble ſubject and Servrnt <hi>R. F.</hi>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
